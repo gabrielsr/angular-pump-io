@@ -1,0 +1,26 @@
+{
+  "name": "angular-pump-io",
+  "version": "0.1.0",
+  "authors": [
+    "Gabriel Rodrigues <gabrielsr@gmail.com>"
+  ],
+  "description": "Angular directives for pump-io",
+  "main": "angular-pump-io.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "Angular",
+    "pump-io",
+    "activitystream"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/gabrielsr/angular-pump-io.git",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
